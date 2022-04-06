@@ -1,1 +1,13 @@
-Teste de anotações 
+# Teste de anotações: 
+## Passos para clonar e baixar o repositório:
+	
+cd 
+ls 	
+*git clone*: clona o repositório do servidor para a máquina local
+*git status*: verifica o status das pastas e arquivos ( se foram reconhecidos ou não)
+*git add .* 	Adiciona todos os arquivos ao repositório 
+*git commit -m "comentário"* cria um commit local 
+*git push origin main*  envia os commits para o servidor online
+	
+
+
